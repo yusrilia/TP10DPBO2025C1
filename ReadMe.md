@@ -31,4 +31,7 @@ Struktur folder `Project/`:
 Setiap entitas (mahasiswa, enrollment, pembayaran) memiliki alur serupa, sehingga aplikasi konsisten dan mudah dikembangkan.
 
 # Dokumentasi
-![alt text](ss.png)
+
+https://github.com/user-attachments/assets/213c1227-56a2-4574-996b-c43fbc589a68
+
+![ss](ss.png)
